@@ -4,14 +4,13 @@
 
 *A glitlab client made by flutter. Support Android & IOS.*
 
-
 [![](https://github.com/stefanJi/Flutter4GitLab/workflows/F4LabCI/badge.svg)](https://github.com/stefanJi/Flutter4GitLab/actions)
-
-![Arch](./art/F4Lab_arch.png)
 
 |home|config|nav|project|merge requests| merge request|commit|diff|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![](./art/f4lab_home.png)| ![](./art/8.png)| ![](./art/1.png) | ![](./art/2.png) | ![](./art/3.png) | ![](./art/4.png) | ![](./art/5.png) | ![](./art/6.png) |
+
+<img src="./art/F4Lab_arch.png" width=400>
 
 ## Usage
 
